@@ -15,6 +15,10 @@ const taskSchema = new mongoose.Schema(
       ref: 'User',
       required: true
     },
+    date: {
+      type: String,
+      required: true
+    },
     checked: {
       type: Boolean,
       default: false
