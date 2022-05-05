@@ -1,6 +1,7 @@
 ** GSD Task List **
 
 # Link:
+[Client Repository](https://github.com/GSD-Task-Force/GSD-Task-Force-client)
 
 # Planning:
 
