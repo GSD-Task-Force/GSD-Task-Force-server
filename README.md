@@ -78,7 +78,7 @@
 1. Under your Task click Delete
 
 ## ERD:
-![ERD](https://imgur.com/a/lU6PvwV)
+[ERD](https://imgur.com/a/lU6PvwV)
 
 ## Stretch Goals:
 
